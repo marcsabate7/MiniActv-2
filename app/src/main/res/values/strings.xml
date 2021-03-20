@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniActivity2</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="textbye">Bye message</string>
+    <string name="textreps">Repetitions</string>
+</resources>
